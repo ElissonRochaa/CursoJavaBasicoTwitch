@@ -1,0 +1,2 @@
+Nino,2,Cinza,Macho
+Charlote,5,Cinza,Femea
